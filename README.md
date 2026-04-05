@@ -71,6 +71,17 @@ git who . ───────────────────────�
 - Node.js >= 18
 - Git installed and accessible on your PATH
 
+## Part of [git-enhanced](https://github.com/LarsenCundric/git-enhanced)
+
+Install all git power tools at once: `npm install -g git-enhanced`
+
+| Tool | What it does |
+|---|---|
+| **git who** | Find who knows a file best |
+| [git standup](https://github.com/LarsenCundric/git-standup-cli) | What did I do yesterday? |
+| [git nuke](https://github.com/LarsenCundric/git-nuke-cli) | Delete a branch everywhere |
+| [git undo](https://github.com/LarsenCundric/smart-git-undo) | Smart undo for any git operation |
+
 ## License
 
 MIT
