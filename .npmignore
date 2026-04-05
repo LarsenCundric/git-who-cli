@@ -1,0 +1,13 @@
+.git
+.gitignore
+node_modules
+*.test.js
+*.spec.js
+tests/
+test/
+__tests__/
+.github/
+.vscode/
+.idea/
+.DS_Store
+coverage/
